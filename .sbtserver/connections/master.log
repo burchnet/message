@@ -1,0 +1,7 @@
+New log file opened at Sat Jan 23 16:23:09 EST 2016 by 44304@cliffs-mbp
+Taking next connection to: 51682
+New client attempting to connect on port: 51686-51682
+  Address = /172.16.1.53:51682
+This client on port 51686 has uuid fceee69e-f06f-4993-98ab-b942a8f72a67 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-fceee69e-f06f-4993-98ab-b942a8f72a67
+Taking next connection to: 51682
